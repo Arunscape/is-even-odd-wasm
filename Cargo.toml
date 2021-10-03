@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "is-even",
+  "is-odd",
+]
