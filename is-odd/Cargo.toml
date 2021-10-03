@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Arun Woosaree <arun@woosaree.xyz>"]
 description = "it's in WASM so it must be faster.. right? Inspired by https://www.npmjs.com/package/is-odd"
 license = "MIT"
-repository = "https://github.com/Arunscape/is-even-odd-wasm/is-odd"
+repository = "https://github.com/Arunscape/is-even-odd-wasm"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
